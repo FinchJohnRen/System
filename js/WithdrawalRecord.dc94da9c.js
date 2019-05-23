@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["WithdrawalRecord"],{c218:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("提现记录")])},l=[],r={},a=r,u=t("2877"),i=Object(u["a"])(a,c,l,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=WithdrawalRecord.dc94da9c.js.map

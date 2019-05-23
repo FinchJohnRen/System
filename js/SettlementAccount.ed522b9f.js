@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["SettlementAccount"],{b293:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("结算账户")])},l=[],u={},o=u,r=t("2877"),s=Object(r["a"])(o,c,l,!1,null,null,null);n["default"]=s.exports}}]);
+//# sourceMappingURL=SettlementAccount.ed522b9f.js.map

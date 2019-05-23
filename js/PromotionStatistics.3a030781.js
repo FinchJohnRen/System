@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["PromotionStatistics"],{"83c2":function(t,n,e){"use strict";e.r(n);var c=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",[t._v("推广统计")])},i=[],o=e("2877"),s={},l=Object(o["a"])(s,c,i,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=PromotionStatistics.3a030781.js.map
